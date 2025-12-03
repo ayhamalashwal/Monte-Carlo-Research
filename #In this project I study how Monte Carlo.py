@@ -1,0 +1,1 @@
+#In this project I study how Monte Carlo methods can be used to price European call options under the Black–Scholes model, and how variance reduction techniques (such as antithetic variates and/or control variates) affect the accuracy and efficiency of the estimates.
