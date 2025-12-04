@@ -50,4 +50,4 @@ O(N
 Z
 Z with 
 −Z
-−Z introduces negative covariance that reduces the overall variance of the estimator. In practical terms, antithetic variates achieve the same accuracy as basic Monte Carlo with roughly 2–4 times fewer samples, depending on the region.
+−Z introduces negative covariance that reduces the overall variance of the estimator. In practical terms, antithetic variates achieve the same accuracy as basic Monte Carlo with roughly 2–4 times fewer samples, depending on the region....
